@@ -1,5 +1,5 @@
 # University-Student-Success-Study-Analyzing-Study-Session-Engagement-and-Assignment-Performance
-As a university student striving for success, understanding the most effective strategies for academic achievement is paramount. This repository contains data collected from a survey designed by data analytics professor to investigate the relationship between study session attendance, assignment 
+A university student striving for success, understanding the most effective strategies for academic achievement is paramount. This repository contains data collected from a survey designed by data analytics professor to investigate the relationship between study session attendance, assignment 
 The survey, administered to students, includes the following questions:
 1.	How many years have you been in school?
 2.	Are you a full-time or part-time student?
